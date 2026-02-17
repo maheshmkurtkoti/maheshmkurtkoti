@@ -34,14 +34,14 @@ My focus areas include:
 
 ---
 
-### 2️⃣ ADAS Perception Stack & Driving Functions
+### 2️⃣ ADAS Perception Stack (Radar+Camera Objects fusion and tracking)
 **Domain**: Automotive / Autonomous Systems  
 
-👉 Repository: [adas-perception-stack](link_here)
+👉 Repository: [ADAS_PERCEPTION_ASTYX]([https://github.com/maheshmkurtkoti/ADAS_PERCEPTION_ASTYX])
 
-- Modular perception stack using eCAL
-- Object detection, lane perception (simulated)
-- Hackathon-ready, runs on any system
+- Modular perception stack using Radar and Camera data
+- Object detection, fusion and tracking 
+- Demo-ready, runs on any system
 
 ---
 
@@ -57,5 +57,5 @@ These projects are designed to demonstrate:
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/maheshmkurtkoti
-- LinkedIn: (add later)
+- GitHub: maheshmkurtkoti [https://github.com/maheshmkurtkoti]
+- LinkedIn: Mahesh Kurtkoti [www.linkedin.com/in/mahesh-kurtkoti-726709138]
