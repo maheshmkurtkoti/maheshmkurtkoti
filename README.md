@@ -26,7 +26,7 @@ My focus areas include:
 **Domain**: Healthcare AI  
 **Focus**: ML-based severity classification from medical scans  
 
-👉 Repository: [disease-severity-ml](https://github.com/maheshmkurtkoti/REPO_NAME)
+👉 Repository: [disease-severity-ml](https://github.com/maheshmkurtkoti/disease-severity-ml)
 
 - Brain CT/MRI or Bone X-ray based severity analysis
 - Image preprocessing + ML pipeline
