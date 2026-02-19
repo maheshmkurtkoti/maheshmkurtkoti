@@ -22,7 +22,18 @@ My focus areas include:
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Disease Severity Identification using Medical Imaging
+
+### 1️⃣ ADAS Perception Stack (Radar+Camera Objects fusion and tracking)
+**Domain**: Automotive / Autonomous Systems  
+
+👉 **Repository:** [ADAS_PERCEPTION_ASTYX](https://github.com/maheshmkurtkoti/ADAS_PERCEPTION_ASTYX)
+
+- Modular perception stack using Radar and Camera data
+- Object detection, fusion and tracking 
+- Demo-ready, runs on any system
+
+---
+### 2️⃣ Disease Severity Identification using Medical Imaging (In progress)
 **Domain**: Healthcare AI  
 **Focus**: ML-based severity classification from medical scans  
 
@@ -31,17 +42,6 @@ My focus areas include:
 - Brain CT/MRI or Bone X-ray based severity analysis
 - Image preprocessing + ML pipeline
 - Fully reproducible and system-independent
-
----
-
-### 2️⃣ ADAS Perception Stack (Radar+Camera Objects fusion and tracking)
-**Domain**: Automotive / Autonomous Systems  
-
-👉 **Repository:** [ADAS_PERCEPTION_ASTYX](https://github.com/maheshmkurtkoti/ADAS_PERCEPTION_ASTYX)
-
-- Modular perception stack using Radar and Camera data
-- Object detection, fusion and tracking 
-- Demo-ready, runs on any system
 
 ---
 
